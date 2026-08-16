@@ -134,7 +134,7 @@ export default function Page() {
             className="font-mono text-sm font-bold tracking-[-0.06em]"
             aria-label="Back to top"
           >
-            NeuralFordge
+            NeuralForge
           </button>
           <nav
             className="hidden items-center gap-8 text-sm text-muted-foreground md:flex"
@@ -671,7 +671,7 @@ export default function Page() {
 
       <footer className="mx-auto flex max-w-7xl flex-col gap-5 px-5 py-8 text-sm text-muted-foreground sm:flex-row sm:items-center sm:justify-between lg:px-8">
         <p className="font-mono text-xs">
-          NeuralFordge — Web design & development
+          NeuralForge — Web design & development
         </p>
         <div className="flex gap-5">
           <a href="mailto:hello@example.com" className="hover:text-foreground">

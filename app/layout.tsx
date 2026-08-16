@@ -7,11 +7,11 @@ const geist = Geist({ subsets: ['latin'], variable: '--font-geist' })
 const geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-geist-mono' })
 
 export const metadata: Metadata = {
-  title: 'NeuralFordge — Web design & development',
+  title: 'NeuralForge — Web design & development',
   description: 'A clear, credible website for ambitious small businesses. Independent web design and development focused on making the next step obvious.',
   generator: 'v0.app',
   openGraph: {
-    title: 'NeuralFordge — Web design & development',
+    title: 'NeuralForge — Web design & development',
     description: 'Thoughtful websites for businesses ready to be understood.',
     type: 'website',
   },
